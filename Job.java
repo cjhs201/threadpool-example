@@ -1,4 +1,7 @@
 public class Job implements Runnable {
+  /***
+   * Commenting some comments :( :) -_-
+   */
   private int jobNumber;
   Job (int jobNumber) {
     this.jobNumber = jobNumber;
